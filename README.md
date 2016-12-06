@@ -8,7 +8,7 @@ Check out the wikipedia article on [binary search trees](https://en.wikipedia.or
 
 ## Status
 
-[![Build Status](https://travis-ci.org/jamesconant/bstree.svg?branch=master)](https://travis-ci.org/jamesconant/bstree)
+[![Build Status](https://travis-ci.org/jamesconant/bstree.svg?branch=master)](https://travis-ci.org/jamesconant/bstree) [![Code Climate](https://codeclimate.com/github/jamesconant/bstree/badges/gpa.svg)](https://codeclimate.com/github/jamesconant/bstree)
 
 ## Installation
 
