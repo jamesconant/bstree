@@ -1,10 +1,14 @@
-# Bstree
+# Bstree 
 
 Yet another binary search tree implemented in ruby. _Yabstree_, however, just didn't have quite the right ring to it.
 
 While this lib is currently implemented for with integers and floats in mind, any objects that implement comparability `<=>` (and are comparable) should just work.
 
 Check out the wikipedia article on [binary search trees](https://en.wikipedia.org/wiki/Binary_search_tree) to learn more.
+
+## Status
+
+[![Build Status](https://travis-ci.org/jamesconant/bstree.svg?branch=master)](https://travis-ci.org/jamesconant/bstree)
 
 ## Installation
 
